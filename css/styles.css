@@ -3,6 +3,7 @@ h1{
   text-decoration: underline;
   text-decoration-style: wavy;
   text-decoration-color: aquamarine;
+  color: aliceblue;
 }
 
 .profilepic {
@@ -15,6 +16,10 @@ h1{
 }
 
 body{
-  background: url('../img/bgimage.jpeg');
+  background: url('../img/bgimage.jpg');
   background-color: rgb(231, 120, 120);
+  background-attachment: fixed;
+}
+.container{
+  
 }

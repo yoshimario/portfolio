@@ -14,3 +14,7 @@ h1{
   width: 25%;
 }
 
+body{
+  background: url('../img/bgimage.jpeg');
+  background-color: rgb(231, 120, 120);
+}

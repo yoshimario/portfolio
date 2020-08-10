@@ -34,3 +34,16 @@ body{
   background-color: rgb(126, 205, 236);
   opacity: 90%;
 }
+.columnsecondary {
+  width: auto;
+  float: center;
+  margin: 12px;
+  padding: 10px;
+  background-color: rgb(126, 205, 236);
+  opacity: 90%;
+}
+
+p{
+  text-align: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

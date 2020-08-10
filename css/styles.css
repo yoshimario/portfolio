@@ -16,7 +16,7 @@ h1{
 }
 
 body{
-  background: url('../img/bgimage.jpg');
+  background: url('../img/bgimage.jpeg');
   background-color: rgb(231, 120, 120);
   background-attachment: fixed;
 }
@@ -27,10 +27,10 @@ body{
   width: 50%;
 }
 .columnmain {
-  width: 250px;
-  float: left;
+  width: auto;
+  float: center;
   margin: 12px;
-  border: 2px solid blue;
+  border: 2px sold blue;
   padding: 4px;
   background-color: lightblue;
   box-sizing: border-box;

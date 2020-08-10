@@ -18,7 +18,7 @@ This website is my portfolio website that I have created for my _Epicodus_ Codin
 * _Open index.html_
 * _View website in browser_
 
-You can also view my website at _ _
+You can also view my website at _https://yoshimario.github.io/portfolio_
 
 ## Known Bugs
 

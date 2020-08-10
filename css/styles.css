@@ -30,9 +30,7 @@ body{
   width: auto;
   float: center;
   margin: 12px;
-  border: 2px sold blue;
-  padding: 4px;
-  background-color: lightblue;
-  box-sizing: border-box;
-  text-align: center;
+  padding: 10px;
+  background-color: rgb(126, 205, 236);
+  opacity: 90%;
 }

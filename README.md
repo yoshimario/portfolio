@@ -9,19 +9,20 @@ _A photo created by Sean Wilson_
 
 ## Description
 
-_This website is my portfolio website that I have created for my Epicodus Coding Adventure._
+This website is my portfolio website that I have created for my _Epicodus_ Coding Adventure.
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* _Clone Repository_
+* _Open repository directory_
+* _Open index.html_
+* _View website in browser_
+
+You can also view my website at _ _
 
 ## Known Bugs
 
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
+_No known bugs at this time._
 
 ## Technologies Used
 

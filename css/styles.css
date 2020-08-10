@@ -36,10 +36,10 @@ body{
 }
 .columnsecondary {
   width: auto;
-  float: center;
-  margin: 12px;
-  padding: 10px;
-  background-color: rgb(126, 205, 236);
+  float: left;
+  margin: 48px;
+  padding: 20px;
+  background-color: rgb(109, 211, 148);
   opacity: 90%;
 }
 

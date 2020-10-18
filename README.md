@@ -1,6 +1,6 @@
 # _Portfolio Website_
 
-#### _Portfolio Website Independent Project for Epicodus, 08.09.2020_
+#### _Portfolio Website Independent Project for Epicodus, Last modified 10.18.2020_
 
 #### By _**Sean Wilson**_
 

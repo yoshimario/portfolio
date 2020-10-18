@@ -27,20 +27,21 @@ body{
   width: 50%;
 }
 .columnmain {
+  color: whitesmoke;
   width: auto;
   float: center;
   margin: 12px;
   padding: 10px;
-  background-color: rgb(126, 205, 236);
-  opacity: 90%;
+  background: rgb(34,193,195);
+  background: linear-gradient(122deg, rgba(34,193,195,0.9313984168865436) 22%, rgba(54,80,199,0.9234828496042217) 48%, rgba(253,45,68,0.9604221635883905) 77%);
 }
 .columnsecondary {
   width: auto;
   float: left;
-  margin: 48px;
-  padding: 20px;
-  background-color: rgb(109, 211, 148);
-  opacity: 90%;
+  margin: 24px;
+  padding: 10px;
+  background: rgb(196,64,129);
+  background: radial-gradient(circle, rgba(196,64,129,1) 9%, rgba(215,158,26,1) 48%, rgba(0,255,217,1) 81%);
 }
 
 p{
